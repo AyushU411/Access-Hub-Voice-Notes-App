@@ -12,3 +12,6 @@ Our project has clear and defined objectives, aligning with the overarching goal
 	Action Commands: Recognizing the importance of hands-free interaction, the project facilitates various actions such as adding, storing, and deleting content through voice commands, providing a seamless experience.
 
 	Compatibility: The web page will be meticulously designed to ensure compatibility with screen readers and other assistive technologies. Cross-browser compatibility is prioritized to accommodate user preferences.
+
+# Project Deployed at Following Link:-
+https://incandescent-buttercream-ee3a4c.netlify.app/
